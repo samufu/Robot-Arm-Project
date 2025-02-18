@@ -9,3 +9,5 @@ Marmara University Technical Sciences Vocational School, Group Project, Robot Ar
 In this project, we modeled an industrial robot arm using Arduino and stepper motors.  
 The 3D part models for the project were obtained from the user "daGHIZmo" on Thingiverse.
 I would like to thank my project group members "Bünyamin EREN", "Tayfun KARATAŞ", "Enis DAL", and "Uğur ÇOBAN".
+
+by. Sabri SEVİNÇLİ 12.02.2025 21:46
