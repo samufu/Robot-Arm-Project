@@ -1,0 +1,20 @@
+
+
+Here is nut,bolt abd washer list:
+Vida                Somun                       Pul
+Hex M4x18   4       M4 Kilitli Somun    12      M4 9x0.9 Pul    15
+Hex M4x25   4       M3 Kilitli Somun    6       M3 7x0.6 Pul    6
+Hex M4x22   4       M3 Normal Somun 36
+Hex M3x20   4       M6 Normal somun 4
+Hex M4x35   4
+Hex M3x16   15
+Hex M6x40   4
+606  Rulman 4
+Hex M3x10   10
+Hex M6x30   2
+Yıldız  M3x12   2
+Yıldız  M2x12   8
+Yıldız  M1.2x8  4
+Pirinç  Boru 4x30mm 2
+Hex M4x16   4
+Hex M3x20   4 
